@@ -1,4 +1,4 @@
-let data2 = [
+[
 
     {
 
@@ -31,5 +31,3 @@ let data2 = [
     },
 ]
 
-
-export default data2; 
