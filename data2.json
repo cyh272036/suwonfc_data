@@ -4,7 +4,7 @@
 
         "id": 9,
         "title": "에어팟 케이스",
-        "imgUrl": "/img/goods_10.jpg",
+        "imgUrl": "./img/goods_10.jpg",
         "content": "a",
         "price": 15000
 
@@ -14,7 +14,7 @@
 
         "id": 10,
         "title": "수원FC 스타디움 뱃지",
-        "imgUrl": "/img/goods_11.jpg",
+        "imgUrl": "./img/goods_11.jpg",
         "content": "c",
         "price": 6000
 
@@ -24,7 +24,7 @@
 
         "id": 11,
         "title": "수원FC 마그넷 오프너",
-        "imgUrl": "/img/goods_12.jpg",
+        "imgUrl": "./img/goods_12.jpg",
         "content": "c",
         "price": 10000
 
