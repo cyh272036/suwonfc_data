@@ -4,7 +4,7 @@
 
         "id": 12,
         "title": "수원FC 20주년 유니폼 리무버블 스티커",
-        "imgUrl": "./img/goods_13.png",
+        "imgUrl": "/img/goods_13.png",
         "content": "c",
         "price": 2000
 
@@ -14,7 +14,7 @@
 
         "id": 13,
         "title": "수원FC 23시즌 유니폼 폰케이스",
-        "imgUrl": "./img/goods_14.png",
+        "imgUrl": "/img/goods_14.png",
         "content": "c",
         "price": 19000
 
@@ -24,7 +24,7 @@
 
         "id": 14,
         "title": "수원FC 무릎담요",
-        "imgUrl": "./img/goods_15.png",
+        "imgUrl": "/img/goods_15.png",
         "content": "b",
         "price": 22000
 
